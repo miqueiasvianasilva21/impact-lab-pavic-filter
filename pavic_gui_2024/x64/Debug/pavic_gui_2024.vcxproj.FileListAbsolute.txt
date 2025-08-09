@@ -1,0 +1,3 @@
+C:\Users\Mike\Documents\ImpactLab_gui_2025-master\pavic_gui_2024\x64\Debug\pavic_gui_2024.vcxproj.AssemblyReference.cache
+C:\Users\Mike\Documents\ImpactLab_gui_2025-master\pavic_gui_2024\x64\Debug\pavicgui2024.Pavic_gui_2024_Form.resources
+C:\Users\Mike\Documents\ImpactLab_gui_2025-master\pavic_gui_2024\x64\Debug\pavic_gui_2024.vcxproj.GenerateResource.cache

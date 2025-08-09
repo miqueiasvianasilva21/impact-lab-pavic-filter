@@ -1,0 +1,5 @@
+﻿  Pavic_gui_2024_Form.cpp
+  Pavic_gui_2024_Form.obj : Módulo MSIL encontrado; vínculo incremental está desabilitado para MSIL; executando link completo
+     Criando biblioteca C:\Users\Mike\Documents\ImpactLab_gui_2025-master\x64\Debug\pavic_gui_2024.lib e objeto C:\Users\Mike\Documents\ImpactLab_gui_2025-master\x64\Debug\pavic_gui_2024.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  pavic_gui_2024.vcxproj -> C:\Users\Mike\Documents\ImpactLab_gui_2025-master\x64\Debug\pavic_gui_2024.exe
